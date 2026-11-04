@@ -1,4 +1,13 @@
-## Hi there 👋
+```
+       /\         High-Petrushka@github
+      /  \        ---------------------
+     /\   \       Name:     Danila
+    /      \      Role:     Student
+   /   ,,   \     Focus:    automation, networking, system administration
+  /   |  |   \    Tools:    Ansible, Nginx, Docker, PostgreSQL
+ /_-''    ''-_\   Languages: Python, Bash, TypeScript, SQL
+                  Interests: Linux, literature, hardware, AI/ML
+```
 
 <!--
 **High-Petrushka/High-Petrushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

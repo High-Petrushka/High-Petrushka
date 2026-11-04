@@ -1,10 +1,10 @@
 ```text
        /\         High-Petrushka@github
       /  \        ---------------------
-     /\   \       Name:     Danila
-    /      \      Role:     Student
-   /   ,,   \     Focus:    automation, networking, system administration
-  /   |  |   \    Tools:    Ansible, Nginx, Docker, PostgreSQL
+     /\   \       Name:      Danila
+    /      \      Role:      Student
+   /   ,,   \     Focus:     automation, networking, system administration
+  /   |  |   \    Tools:     Ansible, Nginx, Docker, PostgreSQL
  /_-''    ''-_\   Languages: Python, Bash, TypeScript, SQL
                   Interests: Linux, literature, hardware, AI/ML
 ```
